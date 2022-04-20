@@ -16,7 +16,7 @@ noquit.match(qRegex);
 
 /*
 Both of these match calls would return ["q"].
-A more practical use of lookaheads is to check 
+A more practical use of look aheads is to check 
 two or more patterns in one string. Here is a 
 (naively) simple password checker that looks for 
 between 3 and 6 characters and at least one number:
@@ -29,9 +29,9 @@ checkPass.test(password);
 
 //Task
 /*
-Use lookaheads in the pwRegex to match passwords that 
-are greater than 5 characters long, and have two consecutive digits.
-
+Use look aheads in the pwRegex to match passwords 
+that are greater than 5 characters long,
+ and have two consecutive digits.
 */
 
 let sampleWord = "astronaut";
