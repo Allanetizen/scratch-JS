@@ -10,3 +10,13 @@ console.log(sumAB);
 
 //to clear console
 console.clear()
+
+/*
+Done using typeof
+check variable types
+*/
+
+console.log(typeof ""); /*string*/
+console.log(typeof 0);  /*number*/
+console.log(typeof []); /*object*/
+console.log(typeof {}); /*object*/
