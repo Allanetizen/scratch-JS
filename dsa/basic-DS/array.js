@@ -1,0 +1,1 @@
+let myArray = ['12', true, false, 'Hi','There'];
